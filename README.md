@@ -21,7 +21,7 @@ Just use **make run** or **./bouncer** to run the application.
 ```bash
 make run
 ```
-
+or
 ```bash
 ./bouncer
 ```
