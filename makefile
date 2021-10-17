@@ -3,7 +3,7 @@ CC := gcc
 all: bouncer
 
 bouncer: bouncer.c
-	gcc $^ -o $@
+	$(CC) $^ -o $@
 
 clean: bouncer
 	rm bouncer
